@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá, meu nome é Erick Patrick e eu sou um programador back-end em formação. Prazer! 😊
 
 ![Homura-san Status](https://github-readme-stats.vercel.app/api?username=Homura-san&show_icons=true)
 
 
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Homura-san&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
